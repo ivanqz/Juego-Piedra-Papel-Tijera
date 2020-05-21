@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# PRACTICA 5. JUEGOS
+Aqui tengo el juego de Piedra, Papel, Tijera hecho con javascript utilizando el if y el switch.
